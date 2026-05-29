@@ -1,0 +1,7 @@
+tensorflow>=2.20.0
+numpy>=2.0.2
+pandas>=2.2.2
+scikit-learn>=1.6.1
+shap>=0.51.0
+matplotlib>=3.10.0
+tqdm>=4.67.3
